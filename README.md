@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- computer science</p>
+<p align="left">- computer science student</p>
 
 ###
 
