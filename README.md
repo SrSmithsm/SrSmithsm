@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Information Systems student</p>
+<p align="left">- computer science</p>
 
 ###
 
