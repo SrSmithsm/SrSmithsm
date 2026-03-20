@@ -1,12 +1,15 @@
+<img align="right" height="400" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVybGJvdjgzc3VvOGlodWgyc3U2OGxtbjhiNW1iamx0eHN3OWFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btYnxio8MUf33O0/giphy.gif"  />
+
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">- computer science student
-<div align="right">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVybGJvdjgzc3VvOGlodWgyc3U2OGxtbjhiNW1iamx0eHN3OWFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btYnxio8MUf33O0/giphy.gif"  />
-</div>
-</p>
+<ul>
+  <li>Studying Computer Science</li>
+  <li>Focused on Full-stack development</li>
+  <li>Currently studying a Full-stack JavaScript track</li>
+  <li>Looking for an internship</li>
+  <li>Always learning something new</li>
+</ul>
 
 ###
 
@@ -26,6 +29,13 @@
 
 ###
 
+## Featured Projects
+
+| Project | Description | Techs |
+|---|---|---|
+| 🐾 PetShop Website | Full website for a pet shop with product catalog and services | HTML, CSS, JS |
+| 🃏 Card Store | E-commerce for collectible cards | HTML, CSS, JS |
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -38,8 +48,9 @@
 
 ###
 
-
 ###
+
+</div>
 
 <h2 align="left">Social Media</h2>
 
@@ -52,6 +63,5 @@
   <a href="mailto:dev.adamlucas@gmail.com.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
 
 ###
