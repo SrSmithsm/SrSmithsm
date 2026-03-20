@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">- computer science student</p>
+<p align="left">- computer science student
+<div align="right">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVybGJvdjgzc3VvOGlodWgyc3U2OGxtbjhiNW1iamx0eHN3OWFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btYnxio8MUf33O0/giphy.gif"  />
+</div>
+</p>
 
 ###
 
@@ -34,9 +38,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVybGJvdjgzc3VvOGlodWgyc3U2OGxtbjhiNW1iamx0eHN3OWFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btYnxio8MUf33O0/giphy.gif"  />
-</div>
 
 ###
 
