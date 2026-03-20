@@ -1,8 +1,9 @@
-<img align="right" height="400" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVybGJvdjgzc3VvOGlodWgyc3U2OGxtbjhiNW1iamx0eHN3OWFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btYnxio8MUf33O0/giphy.gif"  />
+<img align="right" height="300" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVybGJvdjgzc3VvOGlodWgyc3U2OGxtbjhiNW1iamx0eHN3OWFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btYnxio8MUf33O0/giphy.gif"  />
 
 <h2 align="left">About me</h2>
 
 ###
+
 <ul>
   <li>Studying Computer Science</li>
   <li>Focused on Full-stack development</li>
